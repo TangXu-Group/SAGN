@@ -2,7 +2,7 @@
 
 Paper Name: "SAGN: Semantic-Aware Graph Network for Remote Sensing Scene Classification"
 
-Paper Link: waiting
+Paper Link: https://ieeexplore.ieee.org/abstract/document/10025702
 
 Note: The key code has been uploaded and others will be uploaded shortly.
 
